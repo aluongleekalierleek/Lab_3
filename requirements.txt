@@ -1,0 +1,45 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO0pde8Jq+JK6wav/70tc7V"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "83Tmzs2POt3u"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Create requirements.txt file\n",
+        "with open(\"requirements.txt\", \"w\") as f:\n",
+        "    f.write(\"numpy\\n\")\n",
+        "    f.write(\"pandas\\n\")\n",
+        "    f.write(\"matplotlib\\n\")\n",
+        "    f.write(\"scikit-learn\\n\")\n",
+        "    f.write(\"torch\\n\")\n"
+      ],
+      "metadata": {
+        "id": "akjr_LeDdwUa"
+      },
+      "execution_count": 1,
+      "outputs": []
+    }
+  ]
+}
